@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Clacken")(type "KiCad")(uri "${KIPRJMOD}/footprints/Seeed_Studio.kicad_sym")(options "")(descr ""))
+)
